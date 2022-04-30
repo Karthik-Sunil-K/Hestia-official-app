@@ -1,6 +1,6 @@
 # hestia22
 
-Official mobile application for Hestia'22, the national level techno-cultural fest of TKMCE.
+Official mobile application for Hestia'22, the national level techno-cultural fest of TKM College of Engineering, Kollam.
 
 ## Getting Started
 
