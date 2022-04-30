@@ -1,0 +1,1 @@
+// The home tab with list of events, notifications, etc.
